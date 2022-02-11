@@ -1,0 +1,609 @@
+DATA INCENDI,CODI COMARCA,COMARCA,CODI MUNICIPI,TERME MUNICIPAL,HA ARBRADES,HA NO ARBRADES,HA NO FORESTALS,HA FORESTALS
+01/01/2021,21,Maresme,082613,Santa Susanna,0,0,0,0
+03/01/2021,16,Conca de Barberà,431016,Passanant i Belltall,45,0,0,45
+03/01/2021,25,Pallars Jussà,252347,Tremp,0,157,0,157
+04/01/2021,22,Montsià,430141,Amposta,0,5,0,5
+05/01/2021,26,Pallars Sobirà,252094,Sort,0,12,0,12
+06/01/2021,14,Berguedà,080229,Berga,0,0,0,0
+07/01/2021,03,Alt Penedès,082227,Sant Llorenç d'Hortons,0,3,2,3
+14/01/2021,02,Alt Empordà,171387,Portbou,0,1,0,1
+15/01/2021,11,Baix Llobregat,080734,Cornellà de Llobregat,0,0,0,0
+16/01/2021,16,Conca de Barberà,430542,"Espluga de Francolí, l'",0,20,0,20
+16/01/2021,10,Baix Empordà,171997,Torroella de Montgrí,0,33,0,33
+17/01/2021,03,Alt Penedès,082877,Torrelavit,0,0,0,0
+23/01/2021,40,Vallès Occidental,081672,Polinyà,0,1,0,1
+25/01/2021,02,Alt Empordà,171387,Portbou,0,1,0,1
+26/01/2021,02,Alt Empordà,170545,Colera,0,0,0,0
+27/01/2021,03,Alt Penedès,082401,Sant Sadurní d'Anoia,0,15,0,15
+27/01/2021,11,Baix Llobregat,080765,Esparreguera,0,1,0,1
+28/01/2021,24,Osona,082830,Tona,16,0,0,16
+29/01/2021,29,Priorat,430580,"Figuera, la",0,2,0,2
+29/01/2021,33,Segrià,252287,Torrefarrera,0,50,0,50
+31/01/2021,11,Baix Llobregat,080689,Cervelló,0,0,0,0
+01/02/2021,36,Tarragonès,431482,Tarragona,0,2,0,2
+01/02/2021,36,Tarragonès,430477,Constantí,0,3,5,3
+01/02/2021,06,Anoia,080713,Copons,0,1,0,1
+01/02/2021,22,Montsià,430141,Amposta,0,200,0,200
+01/02/2021,09,Baix Ebre,431554,Tortosa,0,85,0,85
+01/02/2021,01,Alt Camp,431613,Valls,34,51,0,85
+01/02/2021,36,Tarragonès,430477,Constantí,0,267,128,267
+01/02/2021,01,Alt Camp,431191,Puigpelat,20,50,65,70
+01/02/2021,36,Tarragonès,430477,Constantí,0,232,229,232
+01/02/2021,34,Selva,170950,Lloret de Mar,2,0,0,2
+02/02/2021,22,Montsià,430141,Amposta,2,0,0,2
+03/02/2021,03,Alt Penedès,083054,Vilafranca del Penedès,0,4,22,4
+03/02/2021,34,Selva,170237,Blanes,1,0,0,1
+03/02/2021,40,Vallès Occidental,081846,Rubí,0,40,0,40
+03/02/2021,14,Berguedà,081751,Puig-reig,0,7,5,7
+05/02/2021,24,Osona,082476,Santa Eulàlia de Riuprimer,22,20,0,42
+06/02/2021,32,Segarra,251327,Massoteres,0,12,0,12
+12/02/2021,06,Anoia,081629,"Hostalets de Pierola, els",0,1,0,1
+17/02/2021,06,Anoia,080484,Carme,6,0,0,6
+17/02/2021,41,Vallès Oriental,080333,Caldes de Montbui,15,0,0,15
+18/02/2021,26,Pallars Sobirà,252094,Sort,0,20,30,20
+18/02/2021,42,Moianès,082589,Santa Maria d'Oló,30,20,0,50
+19/02/2021,20,Gironès,171557,Salt,0,1,0,1
+19/02/2021,31,Ripollès,171450,Ribes de Freser,3,0,0,3
+20/02/2021,15,Cerdanya,251790,Prullans,30,250,0,280
+20/02/2021,20,Gironès,171557,Salt,0,3,0,3
+20/02/2021,32,Segarra,250729,Cervera,0,150,0,150
+20/02/2021,35,Solsonès,251517,Olius,92,0,0,92
+20/02/2021,32,Segarra,252234,Torà,0,850,0,850
+25/02/2021,18,Garrigues,251018,"Granadella, la",0,0,0,0
+27/02/2021,26,Pallars Sobirà,252081,Soriguera,0,20,0,20
+28/02/2021,40,Vallès Occidental,081252,Montcada i Reixac,0,2,0,2
+28/02/2021,21,Maresme,081108,Malgrat de Mar,0,0,0,0
+05/03/2021,17,Garraf,082704,Sitges,51,0,0,51
+05/03/2021,06,Anoia,081430,Òdena,9,0,0,9
+07/03/2021,38,Urgell,259025,Sant Martí de Riucorb,0,11,0,11
+11/03/2021,37,Terra Alta,430483,Corbera d'Ebre,0,25,0,25
+12/03/2021,22,Montsià,431362,Sant Carles de la Ràpita,0,0,0,0
+14/03/2021,06,Anoia,081653,"Pobla de Claramunt, la",2,0,0,2
+14/03/2021,40,Vallès Occidental,080517,Castellar del Vallès,0,10,0,10
+14/03/2021,07,Bages,080983,Sant Salvador de Guardiola,40,31,0,71
+14/03/2021,03,Alt Penedès,082270,Sant Martí Sarroca,0,0,0,0
+18/03/2021,16,Conca de Barberà,430290,Blancafort,15,0,0,15
+18/03/2021,38,Urgell,250463,Belianes,0,80,0,80
+18/03/2021,14,Berguedà,081666,"Pobla de Lillet, la",20,0,0,20
+20/03/2021,38,Urgell,251095,Guimerà,0,7,0,7
+20/03/2021,25,Pallars Jussà,252347,Tremp,0,13,0,13
+21/03/2021,33,Segrià,252108,Soses,0,20,0,20
+21/03/2021,38,Urgell,250463,Belianes,0,3,0,3
+21/03/2021,16,Conca de Barberà,430542,"Espluga de Francolí, l'",4150,0,114,4150
+21/03/2021,05,Alta Ribagorça,251734,"Pont de Suert, el",0,16,0,16
+22/03/2021,36,Tarragonès,430477,Constantí,0,81,267,81
+22/03/2021,12,Baix Penedès,430022,Albinyana,2,0,0,2
+22/03/2021,19,Garrotxa,171143,Olot,0,40,0,40
+23/03/2021,01,Alt Camp,431606,Vallmoll,0,150,0,150
+24/03/2021,20,Gironès,170675,Flaçà,5,0,0,5
+25/03/2021,30,Ribera d'Ebre,430995,"Palma d'Ebre, la",55,0,0,55
+25/03/2021,34,Selva,171485,Riudarenes,6,0,0,6
+27/03/2021,35,Solsonès,251636,"Coma i la Pedra, la",0,4,0,4
+27/03/2021,41,Vallès Oriental,081810,"Roca del Vallès, la",0,1,0,1
+28/03/2021,40,Vallès Occidental,080879,Gallifa,0,1,0,1
+28/03/2021,05,Alta Ribagorça,251734,"Pont de Suert, el",0,13,0,13
+28/03/2021,12,Baix Penedès,430022,Albinyana,2,0,0,2
+29/03/2021,18,Garrigues,251018,"Granadella, la",0,31,0,31
+29/03/2021,30,Ribera d'Ebre,430846,Miravet,176,0,44,176
+29/03/2021,03,Alt Penedès,082325,Sant Pere de Riudebitlles,0,5,0,5
+29/03/2021,20,Gironès,170890,Llagostera,1,0,0,1
+29/03/2021,08,Baix Camp,430075,"Aleixar, l'",20,0,0,20
+30/03/2021,32,Segarra,259078,Torrefeta i Florejacs,0,5,0,5
+30/03/2021,25,Pallars Jussà,251615,Conca de Dalt,154,0,40,154
+31/03/2021,25,Pallars Jussà,251288,Llimiana,15,0,0,15
+01/04/2021,21,Maresme,080095,Argentona,0,3,0,3
+01/04/2021,23,Noguera,251569,Os de Balaguer,0,33,0,33
+01/04/2021,32,Segarra,250729,Cervera,0,10,0,10
+01/04/2021,11,Baix Llobregat,082042,Sant Climent de Llobregat,2,0,0,2
+01/04/2021,11,Baix Llobregat,082634,Sant Vicenç dels Horts,0,0,0,0
+01/04/2021,07,Bages,080983,Sant Salvador de Guardiola,46,13,0,59
+01/04/2021,11,Baix Llobregat,082444,Santa Coloma de Cervelló,0,0,0,0
+03/04/2021,18,Garrigues,251180,Juncosa,0,2,0,2
+03/04/2021,05,Alta Ribagorça,251734,"Pont de Suert, el",0,0,0,0
+03/04/2021,13,Barcelonès,081017,"Hospitalet de Llobregat, l'",0,19,0,19
+03/04/2021,42,Moianès,080706,Collsuspina,1,0,0,1
+03/04/2021,20,Gironès,170904,Llambilles,1,0,0,1
+04/04/2021,09,Baix Ebre,431554,Tortosa,0,10,0,10
+04/04/2021,40,Vallès Occidental,082798,Terrassa,0,0,0,0
+04/04/2021,11,Baix Llobregat,082634,Sant Vicenç dels Horts,0,3,0,3
+05/04/2021,38,Urgell,251543,"Omells de na Gaia, els",2,0,0,2
+05/04/2021,09,Baix Ebre,431554,Tortosa,5,0,0,5
+05/04/2021,09,Baix Ebre,431554,Tortosa,0,6,0,6
+05/04/2021,09,Baix Ebre,430069,Aldover,0,20,0,20
+06/04/2021,26,Pallars Sobirà,250241,Alt Àneu,0,13,0,13
+06/04/2021,10,Baix Empordà,170340,Calonge i Sant Antoni,0,0,0,0
+06/04/2021,12,Baix Penedès,430379,Calafell,0,8,0,8
+07/04/2021,18,Garrigues,250061,"Albagés, l'",0,4,0,4
+07/04/2021,18,Garrigues,250061,"Albagés, l'",0,6,0,6
+07/04/2021,18,Garrigues,250061,"Albagés, l'",0,1,0,1
+07/04/2021,15,Cerdanya,251790,Prullans,420,0,0,420
+08/04/2021,21,Maresme,080752,Dosrius,0,1,0,1
+08/04/2021,33,Segrià,251207,Lleida,24,145,0,169
+09/04/2021,11,Baix Llobregat,080898,Gavà,0,3,0,3
+09/04/2021,02,Alt Empordà,171432,Rabós,0,20,0,20
+10/04/2021,04,Alt Urgell,250306,"Pont de Bar, el",0,0,0,0
+13/04/2021,20,Gironès,170890,Llagostera,0,0,0,0
+13/04/2021,12,Baix Penedès,430379,Calafell,10,0,0,10
+15/04/2021,20,Gironès,170890,Llagostera,0,0,0,0
+15/04/2021,10,Baix Empordà,170486,Castell-Platja d'Aro,10,0,0,10
+16/04/2021,20,Gironès,170890,Llagostera,0,1,0,1
+16/04/2021,02,Alt Empordà,170932,Llers,0,2,0,2
+17/04/2021,20,Gironès,170025,Aiguaviva,0,0,0,0
+18/04/2021,09,Baix Ebre,431021,Paüls,0,1,0,1
+18/04/2021,06,Anoia,081430,Òdena,0,0,0,0
+18/04/2021,08,Baix Camp,430923,Mont-roig del Camp,0,9,0,9
+23/04/2021,09,Baix Ebre,431554,Tortosa,0,33,0,33
+26/04/2021,13,Barcelonès,080193,Barcelona,0,250,0,250
+02/05/2021,33,Segrià,250138,Alfarràs,0,117,0,117
+05/05/2021,11,Baix Llobregat,081141,Martorell,0,4,0,4
+07/05/2021,23,Noguera,250404,Balaguer,0,0,0,0
+08/05/2021,33,Segrià,251253,Llardecans,0,160,40,160
+08/05/2021,23,Noguera,250404,Balaguer,0,70,0,70
+08/05/2021,41,Vallès Oriental,081350,Montmeló,0,1,0,1
+09/05/2021,33,Segrià,251826,Puigverd de Lleida,10,10,0,20
+09/05/2021,13,Barcelonès,080193,Barcelona,0,15,0,15
+10/05/2021,03,Alt Penedès,082515,Santa Margarida i els Monjos,0,1,0,1
+10/05/2021,11,Baix Llobregat,081477,Olesa de Montserrat,250,0,0,250
+11/05/2021,17,Garraf,082310,Sant Pere de Ribes,12,0,0,12
+11/05/2021,13,Barcelonès,082457,Santa Coloma de Gramenet,0,1,0,1
+11/05/2021,06,Anoia,081192,Masquefa,12,0,0,12
+11/05/2021,33,Segrià,252000,Sarroca de Lleida,0,36,0,36
+11/05/2021,03,Alt Penedès,082732,Subirats,65,0,0,65
+12/05/2021,40,Vallès Occidental,081846,Rubí,1,1,0,1
+12/05/2021,11,Baix Llobregat,081477,Olesa de Montserrat,0,3,0,3
+13/05/2021,11,Baix Llobregat,080898,Gavà,57,0,0,57
+13/05/2021,11,Baix Llobregat,082080,Sant Esteve Sesrovires,31,0,0,31
+14/05/2021,07,Bages,081136,Manresa,0,0,0,0
+14/05/2021,41,Vallès Oriental,080235,Bigues i Riells,4,0,0,4
+14/05/2021,07,Bages,082747,Súria,2,0,0,2
+15/05/2021,40,Vallès Occidental,082917,Vacarisses,0,3,0,3
+15/05/2021,07,Bages,081136,Manresa,1,0,0,1
+16/05/2021,02,Alt Empordà,170669,Figueres,0,0,0,0
+16/05/2021,41,Vallès Oriental,080961,Granollers,0,8,0,8
+16/05/2021,41,Vallès Oriental,080885,"Garriga, la",0,1,0,1
+16/05/2021,21,Maresme,080305,Cabrils,8,0,0,8
+16/05/2021,41,Vallès Oriental,089024,Vilanova del Vallès,8,0,0,8
+17/05/2021,09,Baix Ebre,431554,Tortosa,8,0,65,8
+17/05/2021,03,Alt Penedès,082732,Subirats,30,0,0,30
+18/05/2021,11,Baix Llobregat,081960,Sant Andreu de la Barca,0,0,0,0
+18/05/2021,40,Vallès Occidental,081878,Sabadell,0,2,0,2
+18/05/2021,06,Anoia,081192,Masquefa,0,2,0,2
+19/05/2021,03,Alt Penedès,080581,Castellet i la Gornal,5,0,0,5
+19/05/2021,33,Segrià,251207,Lleida,0,1,0,1
+19/05/2021,33,Segrià,251207,Lleida,0,3,0,3
+19/05/2021,40,Vallès Occidental,080517,Castellar del Vallès,0,20,8,20
+19/05/2021,06,Anoia,082508,Santa Margarida de Montbui,0,16,0,16
+19/05/2021,07,Bages,081136,Manresa,51,0,0,51
+19/05/2021,20,Gironès,172155,Vilablareix,0,0,0,0
+19/05/2021,06,Anoia,081614,Piera,30,20,0,50
+20/05/2021,24,Osona,081831,Roda de Ter,0,0,0,0
+20/05/2021,40,Vallès Occidental,081878,Sabadell,0,1,0,1
+21/05/2021,06,Anoia,080713,Copons,0,1,0,1
+21/05/2021,23,Noguera,250404,Balaguer,0,18,638,18
+21/05/2021,40,Vallès Occidental,082384,Sant Quirze del Vallès,0,0,0,0
+22/05/2021,40,Vallès Occidental,082917,Vacarisses,0,1,0,1
+22/05/2021,35,Solsonès,251462,Navès,0,0,0,0
+22/05/2021,13,Barcelonès,082457,Santa Coloma de Gramenet,20,0,0,20
+22/05/2021,24,Osona,082981,Vic,0,0,0,1
+22/05/2021,07,Bages,081271,Monistrol de Montserrat,0,0,0,0
+22/05/2021,20,Gironès,171557,Salt,6,12,0,18
+22/05/2021,02,Alt Empordà,170118,"Armentera, l'",70,0,0,70
+23/05/2021,13,Barcelonès,080193,Barcelona,0,36,0,36
+23/05/2021,24,Osona,081120,Manlleu,0,0,0,0
+24/05/2021,20,Gironès,171557,Salt,0,1,0,1
+25/05/2021,23,Noguera,251569,Os de Balaguer,0,43,107,43
+25/05/2021,23,Noguera,250621,Camarasa,0,46,42,46
+25/05/2021,41,Vallès Oriental,082592,Santa Maria de Palautordera,0,2,0,2
+25/05/2021,01,Alt Camp,431613,Valls,10,0,0,10
+25/05/2021,40,Vallès Occidental,081878,Sabadell,0,3,0,3
+26/05/2021,13,Barcelonès,080193,Barcelona,0,55,0,55
+26/05/2021,41,Vallès Oriental,081363,Montornès del Vallès,0,9,0,9
+27/05/2021,40,Vallès Occidental,081672,Polinyà,0,2,0,2
+27/05/2021,33,Segrià,251207,Lleida,1,0,0,1
+27/05/2021,20,Gironès,171557,Salt,0,12,0,12
+27/05/2021,41,Vallès Oriental,080885,"Garriga, la",14,0,0,14
+28/05/2021,01,Alt Camp,430363,Cabra del Camp,1,29,0,30
+28/05/2021,20,Gironès,171557,Salt,0,0,0,0
+28/05/2021,03,Alt Penedès,082877,Torrelavit,80,40,0,120
+28/05/2021,40,Vallès Occidental,081568,Palau-solità i Plegamans,4,0,0,4
+29/05/2021,18,Garrigues,250292,Arbeca,0,9,160,9
+29/05/2021,06,Anoia,081614,Piera,33,0,0,33
+29/05/2021,16,Conca de Barberà,431074,Pira,0,16,0,16
+29/05/2021,37,Terra Alta,431750,Vilalba dels Arcs,0,2,0,2
+29/05/2021,40,Vallès Occidental,080517,Castellar del Vallès,0,3,0,3
+30/05/2021,34,Selva,170950,Lloret de Mar,0,0,0,0
+31/05/2021,36,Tarragonès,431649,Vespella de Gaià,7,0,0,7
+31/05/2021,40,Vallès Occidental,082798,Terrassa,0,31,0,31
+31/05/2021,40,Vallès Occidental,081252,Montcada i Reixac,0,2,0,2
+01/06/2021,33,Segrià,251207,Lleida,0,2,0,2
+01/06/2021,18,Garrigues,251180,Juncosa,0,5,0,5
+01/06/2021,11,Baix Llobregat,082080,Sant Esteve Sesrovires,0,8,0,8
+01/06/2021,41,Vallès Oriental,081593,Parets del Vallès,0,1,0,1
+02/06/2021,21,Maresme,080403,Canet de Mar,9,0,0,9
+05/06/2021,11,Baix Llobregat,080018,Abrera,0,16,9,16
+05/06/2021,40,Vallès Occidental,081206,Matadepera,0,0,0,0
+05/06/2021,18,Garrigues,252069,"Soleràs, el",0,19,174,19
+05/06/2021,07,Bages,081419,Navàs,146,0,0,146
+05/06/2021,13,Barcelonès,080193,Barcelona,0,0,0,0
+05/06/2021,30,Ribera d'Ebre,431508,Tivissa,100,0,0,100
+06/06/2021,02,Alt Empordà,170307,Cabanes,0,2,49,2
+06/06/2021,11,Baix Llobregat,081691,"Prat de Llobregat, el",0,38,0,38
+06/06/2021,41,Vallès Oriental,081056,"Llagosta, la",0,3,0,3
+07/06/2021,33,Segrià,251207,Lleida,0,18,0,18
+07/06/2021,13,Barcelonès,080193,Barcelona,0,0,0,0
+07/06/2021,01,Alt Camp,431205,Querol,0,8,0,8
+07/06/2021,11,Baix Llobregat,081234,Molins de Rei,16,0,0,16
+07/06/2021,33,Segrià,250208,Almatret,310,300,20,610
+08/06/2021,23,Noguera,251569,Os de Balaguer,0,193,0,193
+08/06/2021,13,Barcelonès,080193,Barcelona,0,1208,0,1208
+08/06/2021,09,Baix Ebre,430252,Benifallet,3,0,10,3
+08/06/2021,37,Terra Alta,430228,Batea,29,0,81,29
+09/06/2021,35,Solsonès,251517,Olius,0,0,0,0
+10/06/2021,35,Solsonès,251863,Riner,1,0,0,1
+10/06/2021,33,Segrià,250208,Almatret,0,25,50,25
+10/06/2021,41,Vallès Oriental,082482,Santa Eulàlia de Ronçana,55,28,326,83
+10/06/2021,18,Garrigues,250292,Arbeca,0,3,0,3
+10/06/2021,02,Alt Empordà,170427,Capmany,390,0,400,390
+12/06/2021,23,Noguera,250349,Artesa de Segre,22,135,70,157
+12/06/2021,40,Vallès Occidental,081252,Montcada i Reixac,0,1,0,1
+12/06/2021,03,Alt Penedès,081688,Pontons,35,0,0,35
+12/06/2021,20,Gironès,170792,Girona,0,0,0,0
+12/06/2021,29,Priorat,430691,Gratallops,147,102,165,249
+13/06/2021,40,Vallès Occidental,081672,Polinyà,0,1,0,1
+13/06/2021,11,Baix Llobregat,082634,Sant Vicenç dels Horts,0,0,0,0
+13/06/2021,03,Alt Penedès,082227,Sant Llorenç d'Hortons,0,400,150,400
+13/06/2021,40,Vallès Occidental,081252,Montcada i Reixac,0,35,0,35
+13/06/2021,11,Baix Llobregat,080728,Corbera de Llobregat,0,2,0,2
+14/06/2021,30,Ribera d'Ebre,430846,Miravet,1,0,0,1
+14/06/2021,30,Ribera d'Ebre,430653,Garcia,7,0,0,7
+14/06/2021,35,Solsonès,251517,Olius,3,122,0,125
+14/06/2021,41,Vallès Oriental,081056,"Llagosta, la",0,8,0,8
+14/06/2021,37,Terra Alta,431107,"Pobla de Massaluca, la",40,0,230,40
+14/06/2021,41,Vallès Oriental,089024,Vilanova del Vallès,0,35,0,35
+15/06/2021,03,Alt Penedès,082325,Sant Pere de Riudebitlles,3,0,0,3
+15/06/2021,01,Alt Camp,431205,Querol,70,0,0,70
+15/06/2021,11,Baix Llobregat,082009,Sant Boi de Llobregat,0,1,0,1
+15/06/2021,23,Noguera,250404,Balaguer,0,150,150,150
+16/06/2021,08,Baix Camp,431457,"Selva del Camp, la",0,12,0,12
+16/06/2021,08,Baix Camp,431457,"Selva del Camp, la",0,9,3,9
+16/06/2021,40,Vallès Occidental,082798,Terrassa,10,0,4,10
+16/06/2021,23,Noguera,251500,Oliola,0,37,0,37
+16/06/2021,08,Baix Camp,431457,"Selva del Camp, la",0,3,0,3
+16/06/2021,08,Baix Camp,431457,"Selva del Camp, la",0,53,0,53
+16/06/2021,08,Baix Camp,431457,"Selva del Camp, la",0,70,18,70
+16/06/2021,21,Maresme,080060,Arenys de Mar,0,1,0,1
+18/06/2021,06,Anoia,081614,Piera,37,0,0,37
+19/06/2021,28,Pla de l'Estany,172180,Vilademuls,0,8,145,8
+20/06/2021,10,Baix Empordà,171241,Pals,0,0,0,0
+21/06/2021,03,Alt Penedès,082401,Sant Sadurní d'Anoia,0,4,0,4
+21/06/2021,17,Garraf,082704,Sitges,0,0,0,0
+21/06/2021,40,Vallès Occidental,081252,Montcada i Reixac,0,107,0,107
+21/06/2021,10,Baix Empordà,171978,Torrent,100,0,1400,100
+21/06/2021,41,Vallès Oriental,080961,Granollers,0,58,0,58
+21/06/2021,06,Anoia,081192,Masquefa,30,0,0,30
+21/06/2021,21,Maresme,080060,Arenys de Mar,0,58,0,58
+22/06/2021,23,Noguera,250404,Balaguer,52,0,277,52
+22/06/2021,21,Maresme,081555,Palafolls,3,0,0,3
+22/06/2021,17,Garraf,082310,Sant Pere de Ribes,0,0,0,0
+23/06/2021,40,Vallès Occidental,081252,Montcada i Reixac,0,8,0,8
+23/06/2021,23,Noguera,250693,Castelló de Farfanya,108,224,5746,332
+23/06/2021,23,Noguera,250404,Balaguer,0,181,400,181
+23/06/2021,13,Barcelonès,080155,Badalona,0,86,0,86
+23/06/2021,23,Noguera,250404,Balaguer,0,10,1,10
+23/06/2021,41,Vallès Oriental,080410,Canovelles,0,4,0,4
+23/06/2021,11,Baix Llobregat,081960,Sant Andreu de la Barca,0,0,0,0
+23/06/2021,10,Baix Empordà,170340,Calonge i Sant Antoni,0,1,0,1
+23/06/2021,10,Baix Empordà,171997,Torroella de Montgrí,0,0,0,0
+23/06/2021,13,Barcelonès,080193,Barcelona,0,4,0,4
+23/06/2021,10,Baix Empordà,170767,Garrigoles,3,0,0,3
+24/06/2021,10,Baix Empordà,171175,Palafrugell,0,0,0,0
+24/06/2021,40,Vallès Occidental,082606,Santa Perpètua de Mogoda,0,0,0,0
+24/06/2021,10,Baix Empordà,171812,Santa Cristina d'Aro,0,0,0,0
+24/06/2021,03,Alt Penedès,080850,Font-rubí,0,10,0,10
+24/06/2021,11,Baix Llobregat,081580,"Papiol, el",0,2,0,2
+24/06/2021,21,Maresme,080095,Argentona,1169,82,63,1251
+24/06/2021,13,Barcelonès,080193,Barcelona,0,10,0,10
+24/06/2021,40,Vallès Occidental,080517,Castellar del Vallès,0,1,0,1
+24/06/2021,08,Baix Camp,430332,Botarell,0,90,0,90
+24/06/2021,36,Tarragonès,431482,Tarragona,1,0,0,1
+24/06/2021,13,Barcelonès,080193,Barcelona,7,0,0,7
+24/06/2021,40,Vallès Occidental,081878,Sabadell,0,1,0,1
+25/06/2021,20,Gironès,171637,Sant Gregori,31,0,0,31
+25/06/2021,20,Gironès,170792,Girona,3,1,0,4
+25/06/2021,23,Noguera,251348,Menàrguens,0,55,0,55
+25/06/2021,03,Alt Penedès,080581,Castellet i la Gornal,110,0,0,110
+25/06/2021,41,Vallès Oriental,082107,Sant Feliu de Codines,4,10,0,14
+25/06/2021,20,Gironès,171426,Quart,0,0,0,0
+25/06/2021,24,Osona,082418,Sant Sadurní d'Osormort,28,0,0,28
+26/06/2021,10,Baix Empordà,170558,Colomers,90,100,0,190
+26/06/2021,02,Alt Empordà,170926,Llançà,0,1,0,1
+26/06/2021,13,Barcelonès,080193,Barcelona,0,0,0,0
+27/06/2021,33,Segrià,250138,Alfarràs,672,2425,2072,3097
+27/06/2021,02,Alt Empordà,170314,Cabanelles,0,0,0,0
+27/06/2021,10,Baix Empordà,171997,Torroella de Montgrí,0,3,0,3
+27/06/2021,11,Baix Llobregat,081574,Pallejà,54,0,0,54
+27/06/2021,13,Barcelonès,080193,Barcelona,0,3,0,3
+28/06/2021,40,Vallès Occidental,081878,Sabadell,0,3,0,3
+28/06/2021,20,Gironès,170209,Bescanó,52,0,0,52
+29/06/2021,04,Alt Urgell,250447,Bassella,0,0,0,0
+29/06/2021,33,Segrià,250387,Aitona,50,491,0,541
+30/06/2021,18,Garrigues,250674,Castelldans,0,1,0,1
+30/06/2021,41,Vallès Oriental,082482,Santa Eulàlia de Ronçana,0,0,0,0
+30/06/2021,36,Tarragonès,430509,Creixell,0,7,0,7
+01/07/2021,40,Vallès Occidental,082665,Cerdanyola del Vallès,0,0,185,1
+01/07/2021,11,Baix Llobregat,082080,Sant Esteve Sesrovires,384,500,1496,884
+01/07/2021,04,Alt Urgell,259084,Fígols i Alinyà,28,0,0,28
+02/07/2021,24,Osona,080673,Centelles,100,10,0,110
+02/07/2021,06,Anoia,080364,Calonge de Segarra,41,0,375,41
+02/07/2021,03,Alt Penedès,081688,Pontons,0,0,0,0
+03/07/2021,12,Baix Penedès,430022,Albinyana,230,10,0,240
+04/07/2021,40,Vallès Occidental,081878,Sabadell,0,24,0,24
+05/07/2021,02,Alt Empordà,171352,Pont de Molins,0,18,0,18
+05/07/2021,18,Garrigues,252555,Vinaixa,5,0,0,5
+05/07/2021,20,Gironès,170890,Llagostera,3,0,0,3
+06/07/2021,16,Conca de Barberà,430862,Montblanc,1,0,33,1
+06/07/2021,41,Vallès Oriental,082021,Sant Celoni,0,0,0,0
+07/07/2021,02,Alt Empordà,171387,Portbou,0,4,0,4
+08/07/2021,11,Baix Llobregat,089058,"Palma de Cervelló, la",0,0,0,0
+08/07/2021,02,Alt Empordà,170160,Bàscara,0,88,0,88
+08/07/2021,04,Alt Urgell,251497,Oliana,0,0,1,0
+08/07/2021,34,Selva,171463,Riells i Viabrea,0,0,0,0
+08/07/2021,14,Berguedà,081304,Montclar,30,0,50,30
+09/07/2021,13,Barcelonès,080193,Barcelona,16,0,0,16
+10/07/2021,41,Vallès Oriental,080333,Caldes de Montbui,3,0,0,3
+10/07/2021,20,Gironès,170792,Girona,48,118,9,166
+10/07/2021,11,Baix Llobregat,080898,Gavà,0,1,0,1
+10/07/2021,40,Vallès Occidental,082798,Terrassa,260,270,270,530
+11/07/2021,40,Vallès Occidental,081878,Sabadell,0,1,0,1
+11/07/2021,13,Barcelonès,080193,Barcelona,0,9,0,9
+11/07/2021,07,Bages,080847,Fonollosa,1,0,0,1
+11/07/2021,40,Vallès Occidental,081252,Montcada i Reixac,0,22,0,22
+11/07/2021,35,Solsonès,251462,Navès,42,0,0,42
+12/07/2021,41,Vallès Oriental,080057,"Ametlla del Vallès, l'",3,0,0,3
+12/07/2021,40,Vallès Occidental,081878,Sabadell,0,1,0,1
+12/07/2021,07,Bages,081419,Navàs,33,0,0,33
+12/07/2021,02,Alt Empordà,171984,Torroella de Fluvià,6,0,0,6
+12/07/2021,23,Noguera,250349,Artesa de Segre,113,0,7,113
+12/07/2021,35,Solsonès,251673,Pinós,0,0,0,0
+12/07/2021,13,Barcelonès,080193,Barcelona,0,0,0,0
+12/07/2021,23,Noguera,250349,Artesa de Segre,3,0,218,3
+13/07/2021,34,Selva,170950,Lloret de Mar,200,0,400,200
+13/07/2021,40,Vallès Occidental,083008,Viladecavalls,5,10,0,15
+13/07/2021,11,Baix Llobregat,080667,Castellví de Rosanes,8962,10156,270,19118
+13/07/2021,21,Maresme,082824,Tiana,0,2,0,2
+13/07/2021,20,Gironès,170792,Girona,0,38,0,38
+13/07/2021,04,Alt Urgell,259097,"Vansa i Fórnols, la",0,0,0,0
+13/07/2021,24,Osona,083036,Vilanova de Sau,0,2,0,2
+13/07/2021,35,Solsonès,251863,Riner,137,44,572,181
+13/07/2021,30,Ribera d'Ebre,430939,Móra d'Ebre,6,0,0,6
+13/07/2021,03,Alt Penedès,082515,Santa Margarida i els Monjos,0,26,9,26
+14/07/2021,13,Barcelonès,080193,Barcelona,15,0,0,15
+14/07/2021,11,Baix Llobregat,080898,Gavà,0,0,0,0
+15/07/2021,30,Ribera d'Ebre,430939,Móra d'Ebre,500,0,0,500
+15/07/2021,07,Bages,080023,Aguilar de Segarra,22,0,0,22
+15/07/2021,18,Garrigues,250061,"Albagés, l'",0,80,10,80
+15/07/2021,33,Segrià,250138,Alfarràs,21,0,0,21
+15/07/2021,40,Vallès Occidental,082606,Santa Perpètua de Mogoda,0,119,539,119
+15/07/2021,10,Baix Empordà,171609,Sant Feliu de Guíxols,66,0,14,66
+16/07/2021,13,Barcelonès,080193,Barcelona,0,73,0,73
+16/07/2021,02,Alt Empordà,170926,Llançà,990,38843,244,39833
+17/07/2021,02,Alt Empordà,172214,Vilafant,0,61,230,61
+17/07/2021,18,Garrigues,250096,"Albi, l'",0,4,0,4
+18/07/2021,09,Baix Ebre,430136,"Ametlla de Mar, l'",0,98,11,98
+18/07/2021,03,Alt Penedès,082401,Sant Sadurní d'Anoia,0,30,0,30
+18/07/2021,23,Noguera,250371,"Avellanes i Santa Linya, les",214,0,0,214
+19/07/2021,40,Vallès Occidental,081878,Sabadell,0,59,0,59
+19/07/2021,33,Segrià,252043,Seròs,0,2,0,2
+20/07/2021,02,Alt Empordà,172348,Biure,0,4,0,4
+20/07/2021,10,Baix Empordà,171997,Torroella de Montgrí,0,0,0,0
+20/07/2021,10,Baix Empordà,171997,Torroella de Montgrí,0,0,0,0
+20/07/2021,11,Baix Llobregat,082634,Sant Vicenç dels Horts,72,0,0,72
+20/07/2021,11,Baix Llobregat,082634,Sant Vicenç dels Horts,0,1,5,1
+20/07/2021,13,Barcelonès,082457,Santa Coloma de Gramenet,0,4,0,4
+20/07/2021,24,Osona,082251,Sant Martí d'Albars,9,0,0,9
+20/07/2021,30,Ribera d'Ebre,430653,Garcia,3,0,0,3
+21/07/2021,03,Alt Penedès,082401,Sant Sadurní d'Anoia,0,17,0,17
+21/07/2021,26,Pallars Sobirà,251266,Llavorsí,15,130,0,145
+21/07/2021,11,Baix Llobregat,081960,Sant Andreu de la Barca,0,22,0,22
+22/07/2021,40,Vallès Occidental,082233,Sant Llorenç Savall,18,69,119,87
+22/07/2021,23,Noguera,250024,Àger,0,195,479,195
+22/07/2021,10,Baix Empordà,171997,Torroella de Montgrí,4291,3254,3,7545
+22/07/2021,40,Vallès Occidental,080543,Castellbisbal,0,106,0,106
+23/07/2021,36,Tarragonès,431482,Tarragona,0,16,0,16
+24/07/2021,16,Conca de Barberà,431397,Santa Coloma de Queralt,112300,18986,38940,131286
+24/07/2021,25,Pallars Jussà,252347,Tremp,0,90,0,90
+24/07/2021,06,Anoia,081629,"Hostalets de Pierola, els",1,0,0,1
+24/07/2021,02,Alt Empordà,172109,Ventalló,2076,125,1324,2201
+24/07/2021,08,Baix Camp,430154,Arbolí,0,4,0,4
+25/07/2021,11,Baix Llobregat,082634,Sant Vicenç dels Horts,0,0,0,0
+25/07/2021,02,Alt Empordà,170470,Castelló d'Empúries,0,1,0,1
+27/07/2021,11,Baix Llobregat,080569,Castelldefels,0,1,0,1
+27/07/2021,40,Vallès Occidental,082798,Terrassa,5,0,0,5
+27/07/2021,21,Maresme,082824,Tiana,0,53,0,53
+27/07/2021,21,Maresme,080095,Argentona,0,23,0,23
+28/07/2021,41,Vallès Oriental,082021,Sant Celoni,0,5,30,5
+28/07/2021,30,Ribera d'Ebre,430939,Móra d'Ebre,1,0,0,1
+28/07/2021,40,Vallès Occidental,080517,Castellar del Vallès,0,1,0,1
+28/07/2021,10,Baix Empordà,171959,"Tallada d'Empordà, la",0,0,0,0
+28/07/2021,36,Tarragonès,431482,Tarragona,12,80,0,92
+28/07/2021,40,Vallès Occidental,082606,Santa Perpètua de Mogoda,0,3,0,3
+29/07/2021,40,Vallès Occidental,081252,Montcada i Reixac,0,3,0,3
+29/07/2021,20,Gironès,171557,Salt,35,43,0,78
+29/07/2021,10,Baix Empordà,171175,Palafrugell,2,0,0,2
+29/07/2021,11,Baix Llobregat,080898,Gavà,0,1,0,1
+30/07/2021,32,Segarra,259059,Ribera d'Ondara,0,2,0,2
+30/07/2021,26,Pallars Sobirà,250827,Espot,0,0,0,0
+31/07/2021,23,Noguera,250791,Cubells,0,39,120,39
+31/07/2021,12,Baix Penedès,431634,"Vendrell, el",0,1,0,1
+31/07/2021,12,Baix Penedès,431634,"Vendrell, el",1,0,0,1
+31/07/2021,02,Alt Empordà,171387,Portbou,0,3760,0,3760
+31/07/2021,24,Osona,082830,Tona,12,0,0,12
+31/07/2021,03,Alt Penedès,082270,Sant Martí Sarroca,0,2,0,2
+31/07/2021,17,Garraf,082704,Sitges,0,4,0,4
+01/08/2021,03,Alt Penedès,081458,Olèrdola,0,0,0,0
+01/08/2021,16,Conca de Barberà,430542,"Espluga de Francolí, l'",1,0,0,1
+01/08/2021,03,Alt Penedès,081458,Olèrdola,0,1,0,1
+01/08/2021,03,Alt Penedès,081458,Olèrdola,0,4,0,4
+01/08/2021,16,Conca de Barberà,430862,Montblanc,1,0,0,1
+01/08/2021,06,Anoia,081043,"Llacuna, la",0,0,0,0
+01/08/2021,03,Alt Penedès,080850,Font-rubí,0,3,0,3
+01/08/2021,20,Gironès,170448,Cassà de la Selva,1,0,0,1
+01/08/2021,03,Alt Penedès,081458,Olèrdola,0,1,0,1
+01/08/2021,03,Alt Penedès,081542,Pacs del Penedès,1,0,0,1
+01/08/2021,16,Conca de Barberà,430542,"Espluga de Francolí, l'",0,1,0,1
+02/08/2021,18,Garrigues,250061,"Albagés, l'",10,10,50,20
+03/08/2021,33,Segrià,250215,Almenar,0,31,0,31
+03/08/2021,41,Vallès Oriental,080961,Granollers,15,0,0,15
+04/08/2021,02,Alt Empordà,172235,Vilajuïga,0,0,0,0
+05/08/2021,03,Alt Penedès,080919,Gelida,0,9,0,9
+07/08/2021,01,Alt Camp,430017,Aiguamúrcia,0,16,0,16
+08/08/2021,03,Alt Penedès,082732,Subirats,0,2,0,2
+09/08/2021,06,Anoia,083020,Vilanova del Camí,0,10,0,10
+09/08/2021,12,Baix Penedès,430516,Cunit,0,0,0,0
+10/08/2021,13,Barcelonès,080193,Barcelona,0,32,0,32
+10/08/2021,37,Terra Alta,430483,Corbera d'Ebre,250,0,0,250
+11/08/2021,36,Tarragonès,430430,"Catllar, el",0,6,0,6
+11/08/2021,33,Segrià,250208,Almatret,55,10,0,65
+11/08/2021,11,Baix Llobregat,080898,Gavà,0,2,0,2
+11/08/2021,41,Vallès Oriental,080961,Granollers,0,14,0,14
+11/08/2021,33,Segrià,250208,Almatret,42,0,1,42
+12/08/2021,06,Anoia,081043,"Llacuna, la",3,0,0,3
+12/08/2021,10,Baix Empordà,171997,Torroella de Montgrí,0,0,0,0
+12/08/2021,41,Vallès Oriental,081347,Figaró-Montmany,18,0,0,18
+12/08/2021,41,Vallès Oriental,081593,Parets del Vallès,2,0,0,2
+12/08/2021,16,Conca de Barberà,431763,Vimbodí i Poblet,3,0,0,3
+12/08/2021,23,Noguera,250426,"Baronia de Rialb, la",119,0,143,119
+12/08/2021,37,Terra Alta,431107,"Pobla de Massaluca, la",4674,2080,724,6754
+13/08/2021,33,Segrià,250208,Almatret,17,0,0,17
+13/08/2021,10,Baix Empordà,171997,Torroella de Montgrí,3,0,0,3
+13/08/2021,03,Alt Penedès,082401,Sant Sadurní d'Anoia,0,28,0,28
+13/08/2021,10,Baix Empordà,171997,Torroella de Montgrí,0,0,0,0
+13/08/2021,11,Baix Llobregat,081141,Martorell,0,3,0,3
+13/08/2021,06,Anoia,080288,Cabrera d'Anoia,0,3,0,3
+14/08/2021,18,Garrigues,250292,Arbeca,0,0,0,0
+14/08/2021,22,Montsià,430629,Freginals,0,263,0,263
+15/08/2021,41,Vallès Oriental,081593,Parets del Vallès,0,0,0,0
+15/08/2021,37,Terra Alta,431750,Vilalba dels Arcs,10,0,35,10
+16/08/2021,19,Garrotxa,171334,"Planes d'Hostoles, les",0,2,0,2
+16/08/2021,36,Tarragonès,431482,Tarragona,650,0,0,650
+17/08/2021,21,Maresme,081635,Pineda de Mar,10,6,0,15
+17/08/2021,20,Gironès,171426,Quart,2,0,0,2
+18/08/2021,41,Vallès Oriental,080961,Granollers,0,10,0,10
+18/08/2021,34,Selva,171019,Massanes,1,0,0,1
+19/08/2021,15,Cerdanya,251272,Lles de Cerdanya,0,0,0,0
+19/08/2021,07,Bages,082747,Súria,4,0,0,4
+19/08/2021,23,Noguera,251728,Ponts,0,0,0,0
+19/08/2021,07,Bages,080847,Fonollosa,20,0,0,20
+19/08/2021,16,Conca de Barberà,431460,Senan,0,0,0,0
+19/08/2021,23,Noguera,250426,"Baronia de Rialb, la",76,0,0,76
+20/08/2021,16,Conca de Barberà,430862,Montblanc,0,0,0,0
+20/08/2021,41,Vallès Oriental,081249,Mollet del Vallès,0,1,0,1
+20/08/2021,04,Alt Urgell,259101,Josa i Tuixén,0,0,0,0
+20/08/2021,11,Baix Llobregat,080018,Abrera,0,0,0,0
+20/08/2021,09,Baix Ebre,431554,Tortosa,1,0,0,1
+21/08/2021,19,Garrotxa,171621,Sant Ferriol,0,3,0,3
+22/08/2021,33,Segrià,252000,Sarroca de Lleida,0,88,0,88
+22/08/2021,35,Solsonès,251636,"Coma i la Pedra, la",2,0,0,2
+22/08/2021,10,Baix Empordà,171997,Torroella de Montgrí,0,0,0,0
+22/08/2021,10,Baix Empordà,170486,Castell-Platja d'Aro,0,0,0,0
+22/08/2021,14,Berguedà,080575,Castell de l'Areny,2,0,0,2
+23/08/2021,35,Solsonès,251673,Pinós,1,0,0,1
+23/08/2021,15,Cerdanya,170849,Isòvol,0,0,0,0
+23/08/2021,33,Segrià,252000,Sarroca de Lleida,0,30,0,30
+23/08/2021,10,Baix Empordà,170486,Castell-Platja d'Aro,2,0,0,2
+23/08/2021,14,Berguedà,080497,Casserres,0,0,0,0
+24/08/2021,10,Baix Empordà,170486,Castell-Platja d'Aro,1,0,0,1
+24/08/2021,01,Alt Camp,431135,"Pont d'Armentera, el",0,2,0,2
+24/08/2021,07,Bages,080180,Balsareny,4,0,0,4
+24/08/2021,10,Baix Empordà,171609,Sant Feliu de Guíxols,0,2,0,2
+25/08/2021,07,Bages,080023,Aguilar de Segarra,0,0,0,0
+25/08/2021,35,Solsonès,250642,Castellar de la Ribera,2,0,0,2
+25/08/2021,11,Baix Llobregat,080898,Gavà,0,2,0,2
+26/08/2021,26,Pallars Sobirà,250175,Alins,0,130,0,130
+26/08/2021,10,Baix Empordà,171997,Torroella de Montgrí,27,1,0,27
+27/08/2021,38,Urgell,259025,Sant Martí de Riucorb,0,47,96,47
+28/08/2021,41,Vallès Oriental,080961,Granollers,0,24,0,24
+28/08/2021,26,Pallars Sobirà,250241,Alt Àneu,12,0,0,12
+29/08/2021,25,Pallars Jussà,252347,Tremp,0,1,0,1
+29/08/2021,33,Segrià,251207,Lleida,0,40,0,40
+29/08/2021,20,Gironès,170792,Girona,0,0,0,0
+29/08/2021,10,Baix Empordà,179011,"Cruïlles, Monells i Sant Sadurní de l'Heura",0,2,0,2
+31/08/2021,14,Berguedà,081666,"Pobla de Lillet, la",2,0,0,2
+03/09/2021,03,Alt Penedès,082227,Sant Llorenç d'Hortons,0,3,0,3
+04/09/2021,02,Alt Empordà,170773,Garriguella,0,0,0,0
+04/09/2021,07,Bages,080538,Castellbell i el Vilar,0,0,0,0
+06/09/2021,06,Anoia,082508,Santa Margarida de Montbui,0,5,0,5
+07/09/2021,11,Baix Llobregat,081691,"Prat de Llobregat, el",0,7,0,7
+08/09/2021,41,Vallès Oriental,080863,"Franqueses del Vallès, les",0,34,0,34
+08/09/2021,41,Vallès Oriental,082592,Santa Maria de Palautordera,0,8,0,8
+08/09/2021,36,Tarragonès,431482,Tarragona,0,0,0,0
+09/09/2021,11,Baix Llobregat,081691,"Prat de Llobregat, el",0,0,0,0
+10/09/2021,12,Baix Penedès,431634,"Vendrell, el",0,14,0,14
+14/09/2021,21,Maresme,081213,Mataró,0,0,0,0
+16/09/2021,30,Ribera d'Ebre,430939,Móra d'Ebre,0,0,0,0
+18/09/2021,23,Noguera,251569,Os de Balaguer,0,22,0,22
+18/09/2021,10,Baix Empordà,171181,Palamós,3,0,0,3
+19/09/2021,33,Segrià,250365,Aspa,0,5,0,5
+21/09/2021,11,Baix Llobregat,080018,Abrera,0,6,0,6
+25/09/2021,29,Priorat,430751,Margalef,0,0,0,0
+25/09/2021,38,Urgell,252385,Vallbona de les Monges,0,10,0,10
+25/09/2021,38,Urgell,252385,Vallbona de les Monges,0,12,0,12
+25/09/2021,23,Noguera,250404,Balaguer,0,4,0,4
+25/09/2021,24,Osona,082690,Seva,0,0,0,0
+02/10/2021,10,Baix Empordà,171978,Torrent,6,0,0,6
+09/10/2021,10,Baix Empordà,170340,Calonge i Sant Antoni,0,0,0,0
+09/10/2021,08,Baix Camp,430094,Alforja,0,2,0,2
+09/10/2021,10,Baix Empordà,170340,Calonge i Sant Antoni,0,0,0,0
+11/10/2021,18,Garrigues,250978,Fulleda,5,12,20,17
+12/10/2021,41,Vallès Oriental,081056,"Llagosta, la",0,95,0,95
+13/10/2021,10,Baix Empordà,171997,Torroella de Montgrí,1,0,0,1
+13/10/2021,10,Baix Empordà,171997,Torroella de Montgrí,5,0,0,5
+13/10/2021,10,Baix Empordà,171997,Torroella de Montgrí,15,0,0,15
+14/10/2021,02,Alt Empordà,171117,Navata,2,0,0,2
+17/10/2021,18,Garrigues,250292,Arbeca,0,22,0,22
+17/10/2021,38,Urgell,250463,Belianes,0,100,0,100
+20/10/2021,10,Baix Empordà,171997,Torroella de Montgrí,0,0,0,0
+20/10/2021,18,Garrigues,250096,"Albi, l'",0,4,0,4
+20/10/2021,16,Conca de Barberà,430862,Montblanc,0,8,0,8
+21/10/2021,23,Noguera,250693,Castelló de Farfanya,10,90,0,100
+23/10/2021,02,Alt Empordà,170643,Espolla,15,0,20,15
+23/10/2021,38,Urgell,250030,Agramunt,43,0,107,43
+23/10/2021,23,Noguera,250024,Àger,0,12,0,12
+25/10/2021,16,Conca de Barberà,431763,Vimbodí i Poblet,0,2,4,2
+25/10/2021,10,Baix Empordà,170340,Calonge i Sant Antoni,0,0,0,0
+26/10/2021,02,Alt Empordà,171582,Sant Climent Sescebes,0,55,0,55
+27/10/2021,02,Alt Empordà,170427,Capmany,120,0,0,120
+28/10/2021,38,Urgell,251095,Guimerà,200,0,7,200
+03/11/2021,16,Conca de Barberà,431460,Senan,9,0,0,9
+03/11/2021,16,Conca de Barberà,430542,"Espluga de Francolí, l'",15,35,42,50
+06/11/2021,11,Baix Llobregat,080569,Castelldefels,0,2,0,2
+06/11/2021,24,Osona,081173,"Masies de Voltregà, les",25,10,0,35
+07/11/2021,02,Alt Empordà,170160,Bàscara,9,0,0,9
+07/11/2021,10,Baix Empordà,171997,Torroella de Montgrí,0,1457,0,1457
+07/11/2021,25,Pallars Jussà,259046,Castell de Mur,0,5,0,5
+07/11/2021,19,Garrotxa,171621,Sant Ferriol,0,15,0,15
+07/11/2021,10,Baix Empordà,171812,Santa Cristina d'Aro,1,0,0,1
+09/11/2021,40,Vallès Occidental,082798,Terrassa,0,10,0,10
+09/11/2021,34,Selva,170084,Anglès,0,0,0,0
+13/11/2021,13,Barcelonès,080193,Barcelona,0,60,0,60
+19/11/2021,25,Pallars Jussà,250019,Abella de la Conca,0,1,0,1
+27/11/2021,30,Ribera d'Ebre,430607,Flix,0,1,0,1
+28/11/2021,11,Baix Llobregat,080569,Castelldefels,12,0,0,12
+07/12/2021,25,Pallars Jussà,250984,Gavet de la Conca,0,15,0,15
+07/12/2021,04,Alt Urgell,251556,Organyà,0,0,0,0
+08/12/2021,03,Alt Penedès,080919,Gelida,0,15,0,15
+08/12/2021,40,Vallès Occidental,081252,Montcada i Reixac,0,0,0,0
+08/12/2021,11,Baix Llobregat,080569,Castelldefels,2,0,0,2
+10/12/2021,12,Baix Penedès,431634,"Vendrell, el",9,0,0,9
+10/12/2021,34,Selva,171805,Santa Coloma de Farners,5,0,0,5
+11/12/2021,22,Montsià,430786,Masdenverge,0,12,0,12
+11/12/2021,38,Urgell,250030,Agramunt,0,5,0,5
+15/12/2021,03,Alt Penedès,082270,Sant Martí Sarroca,0,6,0,6
+16/12/2021,20,Gironès,171557,Salt,2,0,0,2
+16/12/2021,04,Alt Urgell,250772,Coll de Nargó,1,0,0,1
+16/12/2021,10,Baix Empordà,170139,Begur,0,0,0,0
+21/12/2021,31,Ripollès,170963,Les Lloses,0,10,0,10
+23/12/2021,02,Alt Empordà,170470,Castelló d'Empúries,1,0,0,1
+29/12/2021,08,Baix Camp,430094,Alforja,0,75,0,75
+29/12/2021,21,Maresme,082140,Vilassar de Dalt,1,0,0,1
+30/12/2021,12,Baix Penedès,431378,Sant Jaume dels Domenys,0,5,0,5
